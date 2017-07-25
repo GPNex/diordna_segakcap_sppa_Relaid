@@ -17,27 +17,27 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Proximity speaker -->
-  <string name="speaker_settings_label">Proximity speakerphone</string>
-  <string name="prox_auto_speaker_title">Automatic proximity speakerphone</string>
-  <string name="prox_auto_speaker_summary">Enable speakerphone automatically when your phone is removed from your ear</string>
-  <string name="prox_auto_speaker_delay_title">Speakerphone delay</string>
-  <string name="prox_auto_speaker_delay_dialog_title">Speakerphone delay in (ms)</string>
-  <string name="prox_auto_speaker_delay_summary">Speakerphone will be activated in <xliff:g id="number">%d</xliff:g> ms</string>
-  <string name="prox_auto_speaker_incall_only_title">Only while in call</string>
-  <string name="prox_auto_speaker_incall_only_summary_on">On outgoing calls, listener will only become active after the receiving party answers</string>
-  <string name="prox_auto_speaker_incall_only_summary_off">Listener will be active during all offhook call states (default)</string>
+  <string name="speaker_settings_label">距离感应免提</string>
+  <string name="prox_auto_speaker_title">自动免提</string>
+  <string name="prox_auto_speaker_summary">当手机离开耳朵时自动打开免提模式</string>
+  <string name="prox_auto_speaker_delay_title">免提延迟</string>
+  <string name="prox_auto_speaker_delay_dialog_title">免提延迟（毫秒）</string>
+  <string name="prox_auto_speaker_delay_summary">免提模式在<xliff:g id="number">%d</xliff:g>毫秒后打开</string>
+  <string name="prox_auto_speaker_incall_only_title">仅限通话时</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">拨出电话时, 只在接通后启用麦克风</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">所有通话状态都启用麦克风 (默认值)</string>
   <!-- Forward lookup -->
-  <string name="nearby_places">Nearby places</string>
-  <string name="people">People</string>
+  <string name="nearby_places">附近地点</string>
+  <string name="people">联系人</string>
   <!-- Number lookup -->
-  <string name="lookup_settings_label">Phone number lookup</string>
-  <string name="enable_forward_lookup_title">Forward lookup</string>
-  <string name="enable_forward_lookup_summary">Show nearby places when searching in the dialer</string>
-  <string name="enable_people_lookup_title">People lookup</string>
-  <string name="enable_people_lookup_summary">Show online results for people when searching in the dialer</string>
-  <string name="enable_reverse_lookup_title">Reverse lookup</string>
-  <string name="enable_reverse_lookup_summary">Look up information about the person or place for unknown numbers on incoming calls</string>
-  <string name="forward_lookup_provider_title">Forward lookup provider</string>
-  <string name="people_lookup_provider_title">People lookup provider</string>
-  <string name="reverse_lookup_provider_title">Reverse lookup provider</string>
+  <string name="lookup_settings_label">电话号码查询</string>
+  <string name="enable_forward_lookup_title">正向查找</string>
+  <string name="enable_forward_lookup_summary">在拨号器中搜索时显示附近地点</string>
+  <string name="enable_people_lookup_title">查找联系人</string>
+  <string name="enable_people_lookup_summary">在拨号器中搜索时显示人物网上的结果</string>
+  <string name="enable_reverse_lookup_title">反向查找</string>
+  <string name="enable_reverse_lookup_summary">未知号码来电时查找相关人物或地点信息</string>
+  <string name="forward_lookup_provider_title">正向查找提供者</string>
+  <string name="people_lookup_provider_title">检索人物提供者</string>
+  <string name="reverse_lookup_provider_title">反向搜索提供者</string>
 </resources>

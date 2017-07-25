@@ -17,27 +17,27 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Proximity speaker -->
-  <string name="speaker_settings_label">Proximity speakerphone</string>
-  <string name="prox_auto_speaker_title">Automatic proximity speakerphone</string>
-  <string name="prox_auto_speaker_summary">Enable speakerphone automatically when your phone is removed from your ear</string>
-  <string name="prox_auto_speaker_delay_title">Speakerphone delay</string>
-  <string name="prox_auto_speaker_delay_dialog_title">Speakerphone delay in (ms)</string>
-  <string name="prox_auto_speaker_delay_summary">Speakerphone will be activated in <xliff:g id="number">%d</xliff:g> ms</string>
-  <string name="prox_auto_speaker_incall_only_title">Only while in call</string>
-  <string name="prox_auto_speaker_incall_only_summary_on">On outgoing calls, listener will only become active after the receiving party answers</string>
-  <string name="prox_auto_speaker_incall_only_summary_off">Listener will be active during all offhook call states (default)</string>
+  <string name="speaker_settings_label">Nabijheidsluidspreker</string>
+  <string name="prox_auto_speaker_title">Automatische nabijheidsluidspreker</string>
+  <string name="prox_auto_speaker_summary">Luidspreker automatisch inschakelen wanneer de telefoon is verwijderd van het oor</string>
+  <string name="prox_auto_speaker_delay_title">Luidspreker vertraging</string>
+  <string name="prox_auto_speaker_delay_dialog_title">Luidspreker vertraging in (ms)</string>
+  <string name="prox_auto_speaker_delay_summary">Luidspreker wordt ingeschakeld na <xliff:g id="number">%d</xliff:g> ms</string>
+  <string name="prox_auto_speaker_incall_only_title">Alleen wanneer in gesprek</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">Bij uitgaande oproepen, wordt de luisteraar pas actief nadat de ontvanger opneemt</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">Luisteraar is actief tijdens alle hoorn-van-haak oproepstaten (standaard)</string>
   <!-- Forward lookup -->
-  <string name="nearby_places">Nearby places</string>
-  <string name="people">People</string>
+  <string name="nearby_places">Nabijgelegen plaatsen</string>
+  <string name="people">Personen</string>
   <!-- Number lookup -->
-  <string name="lookup_settings_label">Phone number lookup</string>
-  <string name="enable_forward_lookup_title">Forward lookup</string>
-  <string name="enable_forward_lookup_summary">Show nearby places when searching in the dialer</string>
-  <string name="enable_people_lookup_title">People lookup</string>
-  <string name="enable_people_lookup_summary">Show online results for people when searching in the dialer</string>
-  <string name="enable_reverse_lookup_title">Reverse lookup</string>
-  <string name="enable_reverse_lookup_summary">Look up information about the person or place for unknown numbers on incoming calls</string>
-  <string name="forward_lookup_provider_title">Forward lookup provider</string>
-  <string name="people_lookup_provider_title">People lookup provider</string>
-  <string name="reverse_lookup_provider_title">Reverse lookup provider</string>
+  <string name="lookup_settings_label">Telefoonnummer opzoeken</string>
+  <string name="enable_forward_lookup_title">Voorwaarts opzoeken</string>
+  <string name="enable_forward_lookup_summary">Nabijgelegen plaatsen weergeven bij het zoeken in de kiezer</string>
+  <string name="enable_people_lookup_title">Personen opzoeken</string>
+  <string name="enable_people_lookup_summary">Online resultaten van personen weergeven bij het zoeken in de kiezer</string>
+  <string name="enable_reverse_lookup_title">Omgekeerd zoeken</string>
+  <string name="enable_reverse_lookup_summary">Informatie over de persoon of plaats opzoeken voor onbekende nummer bij inkomende oproepen</string>
+  <string name="forward_lookup_provider_title">Voorwaarts opzoeken dienstverlener</string>
+  <string name="people_lookup_provider_title">Personen opzoeken dienstverlener</string>
+  <string name="reverse_lookup_provider_title">Omgekeerd opzoeken dienstverlener</string>
 </resources>

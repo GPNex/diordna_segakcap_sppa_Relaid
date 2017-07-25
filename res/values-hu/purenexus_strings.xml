@@ -17,27 +17,27 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Proximity speaker -->
-  <string name="speaker_settings_label">Proximity speakerphone</string>
-  <string name="prox_auto_speaker_title">Automatic proximity speakerphone</string>
-  <string name="prox_auto_speaker_summary">Enable speakerphone automatically when your phone is removed from your ear</string>
-  <string name="prox_auto_speaker_delay_title">Speakerphone delay</string>
-  <string name="prox_auto_speaker_delay_dialog_title">Speakerphone delay in (ms)</string>
-  <string name="prox_auto_speaker_delay_summary">Speakerphone will be activated in <xliff:g id="number">%d</xliff:g> ms</string>
-  <string name="prox_auto_speaker_incall_only_title">Only while in call</string>
-  <string name="prox_auto_speaker_incall_only_summary_on">On outgoing calls, listener will only become active after the receiving party answers</string>
-  <string name="prox_auto_speaker_incall_only_summary_off">Listener will be active during all offhook call states (default)</string>
+  <string name="speaker_settings_label">Kihangosítás fültől eltartáskor</string>
+  <string name="prox_auto_speaker_title">Automatikus kihangosítás</string>
+  <string name="prox_auto_speaker_summary">Engedélyezi a kihangosítót, amikor hívás közben a telefont távol tartjuk a fültől</string>
+  <string name="prox_auto_speaker_delay_title">Kihangosítás késleltetése</string>
+  <string name="prox_auto_speaker_delay_dialog_title">Kihangosító késleltetése (ezredmásodpercben)</string>
+  <string name="prox_auto_speaker_delay_summary">A kihangosítás bekapcsolásra kerül <xliff:g id="number">%d</xliff:g> emp múlva</string>
+  <string name="prox_auto_speaker_incall_only_title">Csak hívás közben</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">Kimenő hívásoknál a hallgató csak akkor lesz aktív, ha a fogadó fél felveszi</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">A hallgató aktív lesz minden hívási állapotban (alapértelmezett)</string>
   <!-- Forward lookup -->
-  <string name="nearby_places">Nearby places</string>
-  <string name="people">People</string>
+  <string name="nearby_places">Közeli helyek</string>
+  <string name="people">Személyek</string>
   <!-- Number lookup -->
-  <string name="lookup_settings_label">Phone number lookup</string>
-  <string name="enable_forward_lookup_title">Forward lookup</string>
-  <string name="enable_forward_lookup_summary">Show nearby places when searching in the dialer</string>
-  <string name="enable_people_lookup_title">People lookup</string>
-  <string name="enable_people_lookup_summary">Show online results for people when searching in the dialer</string>
-  <string name="enable_reverse_lookup_title">Reverse lookup</string>
-  <string name="enable_reverse_lookup_summary">Look up information about the person or place for unknown numbers on incoming calls</string>
-  <string name="forward_lookup_provider_title">Forward lookup provider</string>
-  <string name="people_lookup_provider_title">People lookup provider</string>
-  <string name="reverse_lookup_provider_title">Reverse lookup provider</string>
+  <string name="lookup_settings_label">Telefonszám keresés</string>
+  <string name="enable_forward_lookup_title">Címkeresés</string>
+  <string name="enable_forward_lookup_summary">Közeli helyek megjelenítése a tárcsázóban kereséskor</string>
+  <string name="enable_people_lookup_title">Személyek keresése</string>
+  <string name="enable_people_lookup_summary">Internetes találatok megjelenítése személyekről a tárcsázóban történő keresés közben</string>
+  <string name="enable_reverse_lookup_title">Fordított keresés</string>
+  <string name="enable_reverse_lookup_summary">Ismeretlen szám bejövő hívásakor információkat keres a személyről vagy a helyről</string>
+  <string name="forward_lookup_provider_title">Címkeresési szolgáltató</string>
+  <string name="people_lookup_provider_title">Személykeresési szolgáltató</string>
+  <string name="reverse_lookup_provider_title">Fordított keresési szolgáltató</string>
 </resources>
